@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         XJTU半自动评教助手
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/sjs-627/XJTU-Auto-pingjiao
 // @version      1.5
 // @description  点击按钮直接执行自动评教，随机填写好评语句
 // @author       An
