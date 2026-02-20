@@ -1,5 +1,4 @@
 # XJTU-Auto-pingjiao
-## 代码由Ai生成
 
 + [Github项目地址](https://github.com/sjs-627/XJTU-Auto-pingjiao)
 
